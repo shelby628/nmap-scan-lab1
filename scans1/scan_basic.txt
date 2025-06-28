@@ -1,0 +1,12 @@
+# Nmap 7.80 scan initiated Fri Jun 27 17:15:01 2025 as: nmap -oN scans1/scan_basic.txt 10.10.55.48
+Nmap scan report for 10.10.55.48
+Host is up (0.17s latency).
+Not shown: 849 closed ports, 146 filtered ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3128/tcp open  squid-http
+
+# Nmap done at Fri Jun 27 21:28:01 2025 -- 1 IP address (1 host up) scanned in 15180.57 seconds

@@ -1,0 +1,6 @@
+# Nmap 7.80 scan initiated Sat Jun 28 10:47:17 2025 as: nmap -Pn -T4 -p- --min-rate 1000 -oN scans1/scan_full_tcp_fast.txt 10.10.113.211
+Nmap scan report for 10.10.113.211
+Host is up.
+All 65535 scanned ports on 10.10.113.211 are filtered
+
+# Nmap done at Sat Jun 28 10:49:37 2025 -- 1 IP address (1 host up) scanned in 140.21 seconds
